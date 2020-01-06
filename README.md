@@ -1,4 +1,7 @@
 # client-side
+```
+Projeto Front End para integração de uma API REST Spring Boot com autenticação e autorização
+```
 
 ## Project setup
 ```
